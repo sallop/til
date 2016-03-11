@@ -79,3 +79,5 @@ transtitive 推移的な、過渡的な
 well-regarded 評判の、高評価の
 wired 神経過敏な、興奮した
 workaround 回避方法、次善策
+mulfunction 正常に機能しない
+numb-nuts ばか者、愚か者、間抜け、能無し
